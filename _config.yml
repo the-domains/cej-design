@@ -1,7 +1,7 @@
 name: CEJ Design
 favicon: null
-layout_spectrum: 0.90533
-typography_spectrum: 0.18549
+layout_spectrum: 0.90657
+typography_spectrum: 0.1855
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#8d9089'
-    - '#756e5e'
-    - '#514d41'
-    - '#805334'
-    - '#202423'
+    - '#bfc3cf'
+    - '#fcfcfc'
+    - '#97959a'
+    - '#806554'
+    - '#523726'
   brandStrength: 0.875
   lightness: 0.5
-  saturation: 0.6875
+  saturation: 0.375
   rhythmicContrast: 0.75
 purpose: []
